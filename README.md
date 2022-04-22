@@ -547,6 +547,12 @@ ___
 - Mauro Chojrin (Twitter) - extracto sobre validaciones
 (https://twitter.com/mchojrin)[https://twitter.com/mchojrin]
 
+- Using the "accept" attribute on File Inputs - HTML Tutorial
+(https://www.youtube.com/watch?v=_J4p2VFNAAk)[https://www.youtube.com/watch?v=_J4p2VFNAAk]
+
+- 07 - tutorial formularios html5 y css3 | input type file y como personalizarlo
+(https://www.youtube.com/watch?v=feVXVUNgeb4&list=TLPQMjIwNDIwMjK8f1GozJaRxQ&index=2)[https://www.youtube.com/watch?v=feVXVUNgeb4&list=TLPQMjIwNDIwMjK8f1GozJaRxQ&index=2]
+
 
 
 
