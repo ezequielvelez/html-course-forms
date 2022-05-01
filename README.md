@@ -39,10 +39,10 @@ Ahora bien, cuándo entendemos esto, también podemos comprender que así cómo 
 ## ¿Qué son los formularios web?
 
 Los formularios web son un conjunto de espacios
-en el documento con el proósito de recibir datos
+en el documento con el propósito de recibir datos
 que arroje el usuario. Es decir, es el principal
 punto de interacción entre el usuario y el sistema
-web. En otra palabra, los formularios web permiten que el usuario influya en la pagina o aplicación.  
+web.  
 
 ## Introducción a sus características
 
@@ -70,7 +70,7 @@ Hay 4 elementos que componen la estructura básica de un formulario. Estos son:
     <dt>label:</dt>
     <dd>Es el título del campo o caja dónde se introduciran los datos</dd>
     <dt>input:</dt>
-    <dd>Es el contenedor de todo el formulario</dd>
+    <dd>Es el campo o caja donde se introducirán los datos</dd>
     <dt>textarea</dt>
     <dd>Es dónde podemos incluir cualquier mensaje que queramos enviar con el formulario</dd>
     <dt>button:</dt>
