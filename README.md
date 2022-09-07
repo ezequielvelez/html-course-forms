@@ -3,7 +3,6 @@
 ## Indice  
 - [Notas sobre formularios web](#notas-sobre-formularios-web)
   - [Indice](#indice)
-  - [Introducción | El individuo cómo generador de datos y la importancia de las  interfaces en los sistemas informáticos.](#introducción--el-individuo-cómo-generador-de-datos-y-la-importancia-de-las--interfaces-en-los-sistemas-informáticos)
   - [¿Qué son los formularios web?](#qué-son-los-formularios-web)
   - [Introducción a sus características](#introducción-a-sus-características)
   - [Estructura básica de un formulario](#estructura-básica-de-un-formulario)
